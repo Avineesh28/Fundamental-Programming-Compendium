@@ -1,0 +1,27 @@
+[submodule "Java/String_Questions"]
+	path = Java/String_Questions
+	url = https://github.com/Avineesh28/String_Questions.git
+[submodule "Java/Matrices"]
+	path = Java/Matrices
+	url = https://github.com/Avineesh28/Matrices.git
+[submodule "Java/Recursion"]
+	path = Java/Recursion
+	url = https://github.com/Avineesh28/Recursion.git
+[submodule "Java/Number_Processing"]
+	path = Java/Number_Processing
+	url = https://github.com/Avineesh28/Number_Processing.git
+[submodule "Data-Structures"]
+	path = Data-Structures
+	url = https://github.com/Avineesh28/Data-Structures.git
+[submodule "Sorting_Techniques"]
+	path = Sorting_Techniques
+	url = https://github.com/Avineesh28/Sorting_Techniques.git
+[submodule "C/Sorting_Techniques"]
+	path = C/Sorting_Techniques
+	url = https://github.com/Avineesh28/Sorting_Techniques.git
+[submodule "C/Data-Structures"]
+	path = C/Data-Structures
+	url = https://github.com/Avineesh28/Data-Structures.git
+[submodule "C/Binary-Search"]
+	path = C/Binary-Search
+	url = https://github.com/Avineesh28/Binary-Search.git
